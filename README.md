@@ -12,5 +12,3 @@
   <li>🌱 I'm currently learning about it.</li>
   <li>😋​ I don't have insomnia, I have an Internet connection..</li>
 </ul>
-
-#### A little more about me
